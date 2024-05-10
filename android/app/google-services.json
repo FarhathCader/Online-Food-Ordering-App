@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1122299781",
+    "project_id": "onlinedelivery-15fcd",
+    "storage_bucket": "onlinedelivery-15fcd.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1122299781:android:4c0df2bf627c88cd545eec",
+        "android_client_info": {
+          "package_name": "com.example.flutter_application_1"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBxT3vcgtxbbAvKUuALBnZbc4Pywn5NCI8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
